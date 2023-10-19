@@ -13,7 +13,7 @@ name                     : &name "Xiaodong Ji(季晓东)"
 description              : &description "personal description"
 url                      : "https://birdchristopher.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # the subpath of your site, e.g. "/blog"
-baseurl                  :  "/main"
+baseurl                  :  
 # repository               : "academicpages/academicpages.github.io"
 repository               : "BirdChristopher/birdchristopher.github.io"
 teaser                   : "500x300.png"
