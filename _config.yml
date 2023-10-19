@@ -11,7 +11,7 @@ title                    : "Xiaodong Ji/Personal Website"
 title_separator          : "-"
 name                     : &name "Xiaodong Ji(季晓东)"
 description              : &description "personal description"
-url                      : "https://b-christopher.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://birdchristopher.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
 repository               : 
