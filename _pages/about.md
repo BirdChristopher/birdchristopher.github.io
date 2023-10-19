@@ -10,3 +10,10 @@ redirect_from:
 # Bio
 I am currently a first year master student at the School of Software & Microelectronics, Peking University, under supervision of Prof Bin.Cui. I received my bachelor's degree in School of Software, Beihang University in 2023.6 .
 
+<script type="text/javascript">
+  var GOOG_FIXURL_LANG = 'en';
+  var GOOG_FIXURL_SITE = '{{ site.url }}'
+</script>
+<script type="text/javascript"
+  src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
+</script>
