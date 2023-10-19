@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: "Xiaodong Ji"
 excerpt: "About me"
 author_profile: true
