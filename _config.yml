@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaodong Ji/Personal Website"
+title                    : "Xiaodong Ji"
 title_separator          : "-"
 name                     : &name "Xiaodong Ji(季晓东)"
 description              : &description "personal description"
