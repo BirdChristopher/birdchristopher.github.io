@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently master student at the School of Software & Microelectronics, Peking University, under the supervision of Prof. Bin Cui. I received my bachelor's degree in School of Software, Beihang University in 2023.6.
+I am currently master student at the School of Software & Microelectronics, Peking University, under the supervision of (Prof. Bin Cui)[https://cuibinpku.github.io/]. I received my bachelor's degree in School of Software, Beihang University in 2023.6.
 
 I am interested in LLM Sparsity and LLM Infer Sys.
 
