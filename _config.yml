@@ -84,11 +84,11 @@ analytics:
 author:
   name             : "Xiaodong.Ji(季晓东)"
   avatar           : "avatar.jpg"
-  bio              : "First year Master in SS.PKU"
+  bio              : "Master in SS.PKU"
   location         : "Beijing, China"
   employer         : 
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=iFqrteAAAAAJ"
   email            : "xiaodong.0731@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
